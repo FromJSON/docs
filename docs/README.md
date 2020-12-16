@@ -6,7 +6,7 @@
 
 > Project to create other projects from a JSON config files.
 
-## Ideas:
+### Ideas:
 
 - Logic
 - Cloud
