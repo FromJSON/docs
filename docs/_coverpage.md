@@ -8,5 +8,5 @@
 - Build presentations
 - Build Infrastructure
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/FromJSON/docs/)
 [Get Started](#FromJSON)
